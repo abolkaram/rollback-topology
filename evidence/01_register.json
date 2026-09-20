@@ -1,0 +1,1 @@
+{"method":"register_topology","args":["SHOP-2","RESPONDER","Checkout service graph",["database","api","checkout"],[[0,1],[1,2]],600]}
