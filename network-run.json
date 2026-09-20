@@ -1,0 +1,13 @@
+{
+  "contractAddress": "0x93DB8E8eeb96d3f64b360E2e42e81a10B9a46fED",
+  "wallet": "0x412d61db014fCdDda12e33b826f63B8ef9AC2E87",
+  "sourceMatchVerified": true,
+  "liveMethod": "register_topology",
+  "liveRecordId": "LIVE-ROLL-1789928201",
+  "liveTransaction": "0x41f9301062c56f3f0a86569640378df7b859d66e17495a6eac0a1fe126663dc1",
+  "liveStatus": "FINALIZED",
+  "liveConsensus": "MAJORITY_AGREE",
+  "liveExecution": "SUCCESS",
+  "liveState": "REGISTERED",
+  "explorerAddress": "https://explorer-studio.genlayer.com/address/0x93DB8E8eeb96d3f64b360E2e42e81a10B9a46fED"
+}

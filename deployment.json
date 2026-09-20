@@ -1,0 +1,17 @@
+{
+  "project": "rollback-topology",
+  "network": "StudioNet",
+  "contractAddress": "0x93DB8E8eeb96d3f64b360E2e42e81a10B9a46fED",
+  "deploymentTransaction": "0xeec68c7c6bac79a8c2a73ba31e16803adbbefb6ca4a9513862853a102f44fb7e",
+  "status": "FINALIZED",
+  "consensus": "MAJORITY_AGREE",
+  "execution": "SUCCESS",
+  "sourceCommit": "4f668130e3a9333c6bf962217397d816f688537f",
+  "repository": "https://github.com/abolkaram/rollback-topology",
+  "sourceMatchVerified": true,
+  "wallet": "0x412d61db014fCdDda12e33b826f63B8ef9AC2E87",
+  "liveInitializationTransaction": "0x41f9301062c56f3f0a86569640378df7b859d66e17495a6eac0a1fe126663dc1",
+  "liveRecordId": "LIVE-ROLL-1789928201",
+  "liveState": "REGISTERED",
+  "explorerAddress": "https://explorer-studio.genlayer.com/address/0x93DB8E8eeb96d3f64b360E2e42e81a10B9a46fED"
+}
